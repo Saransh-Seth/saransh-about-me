@@ -148,16 +148,14 @@
             </div>
             <div class="dividewhite2"></div>
          </li>
-         <li class="menu-item"><a href="#header-wrapper-mp"><i class="fa fa-fw fa-star-o"></i><span>Home</span></a></li>
-         <li class="menu-item"><a href="#details"><i class="fa fa-fw fa-bell-o"></i><span>Details</span></a></li>
+         <li class="menu-item"><a href="#header-wrapper-mp"><i class="fa fa-fw fa-home"></i><span>Home</span></a></li>
+         <li class="menu-item"><a href="#details"><i class="fa fa-fw fa-info"></i><span>Details</span></a></li>
          <!-- <li class="menu-item"><a href="#counts"><i class="fa fa-fw fa-bell-o"></i><span>Counts</span></a></li> -->
-         <li class="menu-item"><a href="#portfolio"><i class="fa fa-fw fa-comment-o"></i><span>Portfolio</span></a></li>
+         <li class="menu-item"><a href="#portfolio"><i class="fa fa-fw fa-heart"></i><span>Portfolio</span></a></li>
          <li class="menu-item"><a href="#progress"><i class="fa fa-fw fa-bar-chart-o"></i><span>Skills</span></a></li>
-         <li class="menu-item"><a href="#timeline-vertical"><i class="fa fa-fw fa-shopping-cart"></i><span>Timeline</span></a></li>
-         <li class="menu-item"><a href="#photocard"><i class="fa fa-fw fa-recycle"></i><span>Featured</span></a></li>
-         <li class="menu-item"><a href="#testmonials"><i class="fa fa-fw fa-bell-o"></i><span>Testmonials</span></a></li>
-         <li class="menu-item"><a href="#feedback"><i class="fa fa-fw fa-bell-o"></i><span>Feedback</span></a></li>
-         <li class="menu-item"><a href="https://wrapbootstrap.com/theme/fletcher-personal-landing-page-html-WB029022K?ref=neuethemes" target="_blank"><i class="fa fa-fw fa-bell-o"></i><span>Buy the Template</span></a></li>
+         <li class="menu-item"><a href="#timeline-vertical"><i class="fa fa-fw fa-clock-o"></i><span>Timeline</span></a></li>
+         <li class="menu-item"><a href="#testmonials"><i class="fa fa-fw fa-file-text-o"></i><span>Testmonials</span></a></li>
+         <li class="menu-item"><a href="#feedback"><i class="fa fa-fw fa-comment-o"></i><span>Feedback</span></a></li>
          <li class="socials">
             <ul>
                <li><a href="#!"><i class="flaticon-facebook44"></i></a></li>
@@ -811,7 +809,7 @@
 <script type="text/javascript" src="assets/vendor/anicounter/jquery.counterup.min.js"></script>
 <script type="text/javascript" src="assets/vendor/circle-progress/circle-progress.min.js"></script>
 <script type="text/javascript" src="assets/vendor/waypoints/waypoints.min.js"></script>
-<script type="text/javascript" src="https://maps.google.com/maps/api/js" defer async></script>
+<script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyAELP0Di3m9Kn4Dw_45wMtNFQN61TSfAYk" defer async></script>
 <script type="text/javascript" src="assets/vendor/offcanvas-menu/js/classie.min.js"></script>
 <script type="text/javascript" src="assets/vendor/progresstracker/js/jquery.progresstracker.min.js"></script>
 <script type="text/javascript" src="assets/vendor/flickr/js/jflickrfeed.min.js"></script>
