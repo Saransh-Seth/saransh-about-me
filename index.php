@@ -225,7 +225,7 @@
                       data-thumb="assets/custom/images/saransh/rs-images/images/transparent.png"
                       data-title="Slide">
                      <!-- MAIN IMAGE -->
-                     <img src="assets/custom/images/saransh/rs-images/01.jpg" alt="fullslide1"
+                     <img src="assets/custom/images/saransh/rs-images/01.JPG" alt="fullslide1"
                           data-bgposition="center center"
                           data-bgfit="cover"
                           data-bgrepeat="no-repeat">
